@@ -1,5 +1,5 @@
 ---
-name: Project Retrospective
+name: Retrospective
 about: This template is for reflecting on a newly completed project
 title: 'Retrospective'
 labels: 'retrospective, story points: 1'
